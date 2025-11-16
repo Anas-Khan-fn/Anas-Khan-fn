@@ -6,18 +6,23 @@
 ---
 
 ## 🚀 About Me
-👋 Hi, I'm **Anas Khan**  
-A passionate **Java Full-Stack Developer** who loves building scalable backend systems and clean user experiences.  
+<p align="left" style="font-size:20px;">
+
+👋 Hi, I'm <b>Anas Khan</b><br>
+A passionate <b>Java Full-Stack Developer</b> who loves building scalable backend systems and clean user experiences.<br>
 I focus on writing maintainable code, learning modern tools, and improving every day.
 
 <br>
 
-<p align="left">
-  <span style="font-size:22px;"><b>💡 “Code. Learn. Improve. Repeat.”</b></span>
+<span style="font-size:26px; font-weight:bold;">
+💡 Code. Learn. Improve. Repeat.
+</span>
+
 </p>
 
 
 ---
+
 
 ## 🌐 Connect With Me  
 
@@ -27,6 +32,7 @@ I focus on writing maintainable code, learning modern tools, and improving every
 </p>
 
 ---
+
 
 ## 💻 Tech Stack
 
@@ -58,18 +64,15 @@ I focus on writing maintainable code, learning modern tools, and improving every
 ✔️ Clean MVC structure  
 ---
 
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anas-Khan-fn&theme=dark&hide_border=true&show_icons=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas-Khan-fn&theme=dark&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
-  <i><b>"If you define the problem correctly, you almost have the solution." — Steve Jobs</b></i>
-</p>
-
-
 ---
+
 
 ## ✍️ Dev Quote  
 <p align="center">
