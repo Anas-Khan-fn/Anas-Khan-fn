@@ -28,25 +28,29 @@ I focus on writing maintainable code, learning modern tools, and improving every
 
 <p align="left">
 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/anaskhanfn/" target="_blank">
-    <img align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="anas khan linkedin" height="30" width="40" />
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="anas khan linkedin" height="30" width="40"/>
   </a>
 
+  <!-- Code360 (You mentioned LeetCode earlier but your link is Code360) -->
   <a href="https://www.naukri.com/code360/profile/anaskhanfn" target="_blank">
-    <img align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-      alt="anas khan leetcode" height="30" width="40" />
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+      alt="anas khan leetcode" height="30" width="40"/>
   </a>
 
+  <!-- Gmail -->
   <a href="mailto:anaskhanfn@gmail.com" target="_blank">
-    <img align="center" 
-      src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" 
-      alt="anas khan gmail" height="30" width="40" />
+    <img align="center"
+      src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
+      alt="anas khan gmail" height="30" width="40"/>
   </a>
 
 </p>
+
 
 
 ---
